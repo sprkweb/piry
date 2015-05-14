@@ -1,0 +1,4 @@
+incorrect_choice: Sorry, but your answer isn't correct. Try to type number or value of one of the options.
+bundler_recommendation: The recommended way to install rubygems is Bundler.
+install_plugins: You should install %s for more functionality.
+press_enter_to_continue: Press enter to continue.

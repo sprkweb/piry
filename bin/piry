@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+# coding: utf-8
+
+# Root path of the program
+ThePath = File.dirname(File.expand_path(File.dirname(__FILE__)))
+$LOAD_PATH << ThePath
+
+require ThePath + '/lib/piry'
+
+PIRY::Manager.launch

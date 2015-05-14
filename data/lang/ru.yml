@@ -1,0 +1,4 @@
+incorrect_choice: Извините, ваш выбор некорректный. Корректным ответом является номер или текст одного из вариантов.
+bundler_recommendation: Рекомендую через Bundler.
+install_plugins: Установите %s для расширения функциональности.
+press_enter_to_continue: Нажмите Enter для продолжения.
